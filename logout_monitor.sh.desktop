@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Hidden=false
+Name=bluetooth_onlogout
+Comment=A basic utility for clearing all bluetooth pairings on session logout
+X-GNOME-Autostart-enabled=true
